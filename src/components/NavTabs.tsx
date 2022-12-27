@@ -1,21 +1,33 @@
-import * as React from 'react';
-import Tabs from '@mui/material/Tabs';
-import Tab from '@mui/material/Tab';
-import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
-import { Matches } from './Matches';
-import { TeamStats } from './TeamStats';
+import React, { FC } from 'react';
+import { Tabs, Tab, Typography, Box } from '@mui/material';
+import { TabPanelProps, TabsObjType, TabsProp } from '../types';
 
-interface TabPanelProps {
-  children?: React.ReactNode;
-  index: number;
-  value: number;
-}
+export const NavTabs: FC<TabsProp> = ({ tabs, styling, active }) => {
+  const [value, setValue] = React.useState(active);
 
-interface TabsProp {
-  tabs: string[],
-  styling: string,
-  active: number
+  const handleChange = (event: React.SyntheticEvent, newValue: number) => {
+    setValue(newValue);
+  };
+
+  return (
+    <Box sx={{ width: '100%' }}>
+      <Box className={`${styling}-navbar`}>
+        <Box sx={{ width: styling === 'main' ? '750px' : '100%', margin: '0 auto' }}>
+          <Tabs textColor="inherit" centered value={value} onChange={handleChange} variant="fullWidth">
+            {tabs.map((el: TabsObjType, i: number) => (
+              <Tab label={el.title} {...a11yProps(i)} disabled={el.disable} key={`tabs-${i}`}/>
+            ))}
+          </Tabs>
+        </Box>
+      </Box>
+
+      {tabs.map((el: TabsObjType, i: number) => (
+        <TabPanel value={value} index={i} key={`panel-${i}`}>
+          {el.component}
+        </TabPanel>
+      ))}
+    </Box>
+  );
 }
 
 function TabPanel(props: TabPanelProps) {
@@ -43,31 +55,4 @@ function a11yProps(index: number) {
     id: `simple-tab-${index}`,
     'aria-controls': `simple-tabpanel-${index}`,
   };
-}
-
-export default function NavTabs({ tabs, styling, active }: TabsProp) {
-  const [value, setValue] = React.useState(active);
-
-  const handleChange = (event: React.SyntheticEvent, newValue: number) => {
-    setValue(newValue);
-  };
-
-  return (
-    <Box sx={{ width: '100%' }}>
-      <Box className={`${styling}-navbar`}>
-        <Tabs textColor="inherit" centered value={value} onChange={handleChange}>
-          {tabs.map((el: string, i: number) => (
-            <Tab label={el} {...a11yProps(i)} disabled={el != 'MATCHES' && el != 'STATS'}/>
-          ))}
-        </Tabs>
-      </Box>
-      <TabPanel value={value} index={0}>
-        <Matches />
-      </TabPanel>
-
-      <TabPanel value={value} index={2}>
-        <TeamStats />
-      </TabPanel>
-    </Box>
-  );
 }

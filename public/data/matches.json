@@ -1,0 +1,1267 @@
+{
+    "groups" : [
+        {
+            
+            "id": "gp1",
+            "title": "Round of 16",
+            "matches": [
+                {
+                    "id": "wc1",
+                    "date": "3 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/mqjnt60FSdSo2H34_192x108.jpg",
+                    "team1" : {
+                        "name": "Netherlands",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+                        "winner": true,
+                        "score": 3,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "USA",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "11",
+                            "detail": "Shots",
+                            "team2": "17"
+                        },
+                        {
+                            "team1": "6",
+                            "detail": "Shots on target",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "41%",
+                            "detail": "Possession",
+                            "team2": "59%"
+                        },
+                        {
+                            "team1": "414",
+                            "detail": "Passes",
+                            "team2": "569"
+                        },
+                        {
+                            "team1": "76%",
+                            "detail": "Pass accuracy",
+                            "team2": "83%"
+                        },
+                        {
+                            "team1": "10",
+                            "detail": "Fouls",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "2",
+                            "detail": "Yellow cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "3"
+                        },
+                        {
+                            "team1": "4",
+                            "detail": "Corners",
+                            "team2": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc2",
+                    "date": "4 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/FYfN1dNinizMtxm8_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": 2,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Australia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "14",
+                            "detail": "Shots",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Shots on target",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "61%",
+                            "detail": "Possession",
+                            "team2": "39"
+                        },
+                        {
+                            "team1": "695",
+                            "detail": "Passes",
+                            "team2": "435"
+                        },
+                        {
+                            "team1": "87%",
+                            "detail": "Pass accuracy",
+                            "team2": "82%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "15"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "2"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "3",
+                            "detail": "Offsides",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "1",
+                            "detail": "Corners",
+                            "team2": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc3",
+                    "date": "4 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_192x108.jpg",
+                    "team1" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": 3,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Poland",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "16",
+                            "detail": "Shots",
+                            "team2": "12"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Shots on target",
+                            "team2": "3"
+                        },
+                        {
+                            "team1": "55%",
+                            "detail": "Possession",
+                            "team2": "45%"
+                        },
+                        {
+                            "team1": "551",
+                            "detail": "Passes",
+                            "team2": "456"
+                        },
+                        {
+                            "team1": "86%",
+                            "detail": "Pass accuracy",
+                            "team2": "82%"
+                        },
+                        {
+                            "team1": "10",
+                            "detail": "Fouls",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "1",
+                            "detail": "Yellow cards",
+                            "team2": "2"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "3",
+                            "detail": "Offsides",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "7",
+                            "detail": "Corners",
+                            "team2": "1"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc4",
+                    "date": "5 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Zhg-DbHAPKaGA0Lz_192x108.jpg",
+                    "team1" : {
+                        "name": "England",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
+                        "winner": true,
+                        "score": 3,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Senegal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zw3ac5sIbH4DS6zP5auOkQ_48x48.png",
+                        "winner": false,
+                        "score": 0,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "8",
+                            "detail": "Shots",
+                            "team2": "10"
+                        },
+                        {
+                            "team1": "4",
+                            "detail": "Shots on target",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "62%",
+                            "detail": "Possession",
+                            "team2": "38%"
+                        },
+                        {
+                            "team1": "589",
+                            "detail": "Passes",
+                            "team2": "368"
+                        },
+                        {
+                            "team1": "85%",
+                            "detail": "Pass accuracy",
+                            "team2": "80%"
+                        },
+                        {
+                            "team1": "16",
+                            "detail": "Fouls",
+                            "team2": "12"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "3",
+                            "detail": "Corners",
+                            "team2": "3"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc5",
+                    "date": "5 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/W5IlEzTx7m7vB9nt_192x108.jpg",
+                    "team1" : {
+                        "name": "Japan",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": 1
+                    },
+                    "team2" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": 1,
+                        "penalties": 3
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "13",
+                            "detail": "Shots",
+                            "team2": "17"
+                        },
+                        {
+                            "team1": "4",
+                            "detail": "Shots on target",
+                            "team2": "4"
+                        },
+                        {
+                            "team1": "41%",
+                            "detail": "Possession",
+                            "team2": "59%"
+                        },
+                        {
+                            "team1": "524",
+                            "detail": "Passes",
+                            "team2": "725"
+                        },
+                        {
+                            "team1": "75%",
+                            "detail": "Pass accuracy",
+                            "team2": "83%"
+                        },
+                        {
+                            "team1": "13",
+                            "detail": "Fouls",
+                            "team2": "16"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "2"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "3",
+                            "detail": "Offsides",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Corners",
+                            "team2": "5"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc6",
+                    "date": "6 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/zRXUAM88zdg_mRJj_192x108.jpg",
+                    "team1" : {
+                        "name": "Brazil",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                        "winner": true,
+                        "score": 4,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "South Korea",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc7",
+                    "date": "6 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/OD1dtds7eAeUhgVN_192x108.jpg",
+                    "team1" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": true,
+                        "score": 0,
+                        "penalties": 3
+                    },
+                    "team2" : {
+                        "name": "Spain",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_48x48.png",
+                        "winner": false,
+                        "score": 0,
+                        "penalties": 0
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc8",
+                    "date": "7 Dec",
+                    "title": "Round of 16",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/sHOjMUhCh5Clp7Sv_192x108.jpg",
+                    "team1" : {
+                        "name": "Portugal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png",
+                        "winner": true,
+                        "score": 6,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Switzerland",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": "gp2",
+            "title": "Quarter-finals",
+            "matches": [
+                {
+                    "id": "wc9",
+                    "date": "9 Dec",
+                    "title": "Quarter-finals",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/43NdLJfaLtvG5Efy_192x108.jpg",
+                    "team1" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": 1,
+                        "penalties": 4
+                    },
+                    "team2" : {
+                        "name": "Brazil",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": 2
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc10",
+                    "date": "10 Dec",
+                    "title": "Quarter-finals",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/HEZL-JxhKaG2AdRq_192x108.jpg",
+                    "team1" : {
+                        "name": "Netherlands",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+                        "winner": false,
+                        "score": 2,
+                        "penalties": 3
+                    },
+                    "team2" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": 2,
+                        "penalties": 4
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc11",
+                    "date": "10 Dec",
+                    "title": "Quarter-finals",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/C6bNfgplKAGo_ALu_192x108.jpg",
+                    "team1" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": true,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Portugal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png",
+                        "winner": false,
+                        "score": 0,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc12",
+                    "date": "Sun, 11 Dec",
+                    "title": "Quarter-finals",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/uv61xfx4QCxBOHzn_192x108.jpg",
+                    "team1" : {
+                        "name": "England",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": 2,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": "gp3",
+            "title": "Semi-finals",
+            "matches": [
+                {
+                    "id": "wc13",
+                    "date": "Wed, 14 Dec",
+                    "title": "Semi-finals",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6i7CsYDctMZeGMw5_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": 3,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": false,
+                        "score": 0,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                },
+                {
+                    "id": "wc14",
+                    "date": "Thu, 15 Dec",
+                    "title": "Semi-finals",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/9q5ZVQOsnqJY3Wbc_192x108.jpg",
+                    "team1" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": 2,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": false,
+                        "score": 0,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": "gp4",
+            "title": "Third place play-off",
+            "matches": [
+                {
+                    "id": "wc15",
+                    "date": "Sat, 17 Dec",
+                    "title": "Third place play-off",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/CbULSrhXuYZI29HF_192x108.jpg",
+                    "team1" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": 2,
+                        "penalties": false
+                    },
+                    "team2" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": false,
+                        "score": 1,
+                        "penalties": false
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": "gp5",
+            "title": "Final",
+            "matches": [
+                {
+                    "id": "wc16",
+                    "date": "Sun, 18 Dec",
+                    "title": "Final",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/uv61xfx4QCxBOHzn_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": 3,
+                        "penalties": 4
+                    },
+                    "team2" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": false,
+                        "score": 3,
+                        "penalties": 2
+                    },
+                    "recaps": [
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+                    ],
+                    "stats": [
+                        {
+                            "team1": "18",
+                            "detail": "Shots",
+                            "team2": "8"
+                        },
+                        {
+                            "team1": "9",
+                            "detail": "Shots on target",
+                            "team2": "6"
+                        },
+                        {
+                            "team1": "54%",
+                            "detail": "Possession",
+                            "team2": "46%"
+                        },
+                        {
+                            "team1": "609",
+                            "detail": "Passes",
+                            "team2": "529"
+                        },
+                        {
+                            "team1": "89%",
+                            "detail": "Pass accuracy",
+                            "team2": "86%"
+                        },
+                        {
+                            "team1": "8",
+                            "detail": "Fouls",
+                            "team2": "13"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Yellow cards",
+                            "team2": "1"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Red cards",
+                            "team2": "0"
+                        },
+                        {
+                            "team1": "0",
+                            "detail": "Offsides",
+                            "team2": "5"
+                        },
+                        {
+                            "team1": "5",
+                            "detail": "Corners",
+                            "team2": "4"
+                        }
+                    ]
+                }
+            ] 
+        }
+    ]
+}

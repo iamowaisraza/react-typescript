@@ -1,30 +1,26 @@
-import Box from '@mui/material/Box';
-import { Card as MatchCard, CardProps } from "./Card";
-import { Card } from "@mui/material";
-import data from "../data/matches.json";
+import { FC, useContext } from 'react';
+import { MatchCard } from "./MatchCard";
+import { Card, Box } from "@mui/material";
+import { MatchDataType } from '../types';
+import { MatchesContext } from '../context/MatchesContext';
 
-export const Matches = () => {
-    const matcheGroup: any = data.groups;
-    console.log(matcheGroup);
-
+export const Matches: FC = () => {
+    const { data } = useContext(MatchesContext);
     return (
-        <Box sx={{ maxWidth: '750px', margin: '0 auto' }}>
+        data && <Box sx={{ maxWidth: '750px', margin: '0 auto' }}>
             <Card>
-                {matcheGroup.map((group: any) => (
-                    <>
+                {data.groups.map((group: any) => (
+                    <div key={group.id}>
                         <h4 className="match-title">{group.title}</h4>
                         <div className="main-grid">
-                            {group.matches.map((match: any) => (
+                            {group.matches.map((match: MatchDataType) => (
                                 <MatchCard
-                                    ft={match.ft}
-                                    date={match.date}
-                                    videoImg={match.videoImg}
-                                    team1={match.team1}
-                                    team2={match.team2}
+                                    key={match.id}
+                                    data={match}
                                 />
                             ))}
                         </div>
-                    </>
+                    </div>
                 ))}
             </Card>
         </Box>

@@ -1,26 +1,22 @@
-import NavTab from "./NavTab";
+import { FC } from 'react';
 import { Close, ArrowBack } from '@mui/icons-material';
 import { useNavigate } from 'react-router-dom';
+import { HeaderPropsType } from '../types';
 
-type Props = {
-    color: string,
-    title: string
-}
-
-export const Header = ({color, title}: Props) => {
+export const Header: FC<HeaderPropsType> = ({ color, title }) => {
     const navigate = useNavigate();
 
     const backOrCloseHandler = () => {
         navigate('/');
     }
     return (
-        <nav className="main-header" style={{backgroundColor: color}}>
+        <nav className="main-header" style={{ backgroundColor: color }}>
             <div className="left-content">
-                <ArrowBack onClick={backOrCloseHandler}/>
+                <ArrowBack onClick={backOrCloseHandler} />
                 <span>{title}</span>
             </div>
             <div className="right-content">
-                <Close onClick={backOrCloseHandler}/>
+                <Close onClick={backOrCloseHandler} />
             </div>
         </nav>
     );

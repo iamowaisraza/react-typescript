@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from "react-router-dom";
 import './index.scss';
 import App from './App';
+import { MatchesContextProvider } from './context/MatchesContext';
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
@@ -10,7 +12,9 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <BrowserRouter>
-      <App />
+      <MatchesContextProvider>
+        <App />
+      </MatchesContextProvider>
     </BrowserRouter>
   </React.StrictMode>
 );
