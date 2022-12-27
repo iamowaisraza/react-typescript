@@ -1,0 +1,301 @@
+{
+    "groups" : [
+        {
+            "title": "Round of 16",
+            "matches": [
+                {
+                    "date": "3 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/mqjnt60FSdSo2H34_192x108.jpg",
+                    "team1" : {
+                        "name": "Netherlands",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+                        "winner": true,
+                        "score": "3"
+                    },
+                    "team2" : {
+                        "name": "USA",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                },
+                {
+                    "date": "4 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/FYfN1dNinizMtxm8_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": "2"
+                    },
+                    "team2" : {
+                        "name": "Australia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                },
+                {
+                    "date": "4 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_192x108.jpg",
+                    "team1" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": "3"
+                    },
+                    "team2" : {
+                        "name": "Poland",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                },
+                {
+                    "date": "5 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/Zhg-DbHAPKaGA0Lz_192x108.jpg",
+                    "team1" : {
+                        "name": "England",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
+                        "winner": true,
+                        "score": "3"
+                    },
+                    "team2" : {
+                        "name": "Senegal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zw3ac5sIbH4DS6zP5auOkQ_48x48.png",
+                        "winner": false,
+                        "score": "0"
+                    }
+                },
+                {
+                    "date": "5 Dec",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/W5IlEzTx7m7vB9nt_192x108.jpg",
+                    "team1" : {
+                        "name": "Japan",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png",
+                        "winner": false,
+                        "score": "1 (1)"
+                    },
+                    "team2" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": "1 (3)"
+                    }
+                },
+                {
+                    "date": "6 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/zRXUAM88zdg_mRJj_192x108.jpg",
+                    "team1" : {
+                        "name": "Brazil",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                        "winner": true,
+                        "score": "4"
+                    },
+                    "team2" : {
+                        "name": "South Korea",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                },
+                {
+                    "date": "6 Dec",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/OD1dtds7eAeUhgVN_192x108.jpg",
+                    "team1" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": true,
+                        "score": "0 (3)"
+                    },
+                    "team2" : {
+                        "name": "Spain",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_48x48.png",
+                        "winner": false,
+                        "score": "0 (0)"
+                    }
+                },
+                {
+                    "date": "7 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/sHOjMUhCh5Clp7Sv_192x108.jpg",
+                    "team1" : {
+                        "name": "Portugal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png",
+                        "winner": true,
+                        "score": "6"
+                    },
+                    "team2" : {
+                        "name": "Switzerland",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1hy9ek4dOIffYULM6k1fqg_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                }
+            ] 
+        },
+        {
+            "title": "Quarter-finals",
+            "matches": [
+                {
+                    "date": "9 Dec",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/43NdLJfaLtvG5Efy_192x108.jpg",
+                    "team1" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": "1 (4)"
+                    },
+                    "team2" : {
+                        "name": "Brazil",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+                        "winner": false,
+                        "score": "1 (2)"
+                    }
+                },
+                {
+                    "date": "10 Dec",
+                    "ft": "FT (P)",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/HEZL-JxhKaG2AdRq_192x108.jpg",
+                    "team1" : {
+                        "name": "Netherlands",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+                        "winner": false,
+                        "score": "2 (3)"
+                    },
+                    "team2" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": "2 (4)"
+                    }
+                },
+                {
+                    "date": "10 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/C6bNfgplKAGo_ALu_192x108.jpg",
+                    "team1" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": true,
+                        "score": "1"
+                    },
+                    "team2" : {
+                        "name": "Portugal",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_48x48.png",
+                        "winner": false,
+                        "score": "0"
+                    }
+                },
+                {
+                    "date": "Sun, 11 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/uv61xfx4QCxBOHzn_192x108.jpg",
+                    "team1" : {
+                        "name": "England",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    },
+                    "team2" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": "2"
+                    }
+                }
+            ] 
+        },
+        {
+            "title": "Semi-finals",
+            "matches": [
+                {
+                    "date": "Wed, 14 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/6i7CsYDctMZeGMw5_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": "3"
+                    },
+                    "team2" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": false,
+                        "score": "0"
+                    }
+                },
+                {
+                    "date": "Thu, 15 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/9q5ZVQOsnqJY3Wbc_192x108.jpg",
+                    "team1" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": true,
+                        "score": "2"
+                    },
+                    "team2" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": false,
+                        "score": "0"
+                    }
+                }
+            ] 
+        },
+        {
+            "title": "Third place play-off",
+            "matches": [
+                {
+                    "date": "Sat, 17 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/CbULSrhXuYZI29HF_192x108.jpg",
+                    "team1" : {
+                        "name": "Croatia",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+                        "winner": true,
+                        "score": "2"
+                    },
+                    "team2" : {
+                        "name": "Morocco",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_48x48.png",
+                        "winner": false,
+                        "score": "1"
+                    }
+                }
+            ] 
+        },
+        {
+            "title": "Final",
+            "matches": [
+                {
+                    "date": "Sun, 18 Dec",
+                    "ft": "FT",
+                    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/uv61xfx4QCxBOHzn_192x108.jpg",
+                    "team1" : {
+                        "name": "Argentina",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+                        "winner": true,
+                        "score": "3 (4)"
+                    },
+                    "team2" : {
+                        "name": "France",
+                        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+                        "winner": false,
+                        "score": "3 (2)"
+                    }
+                }
+            ] 
+        }
+    ]
+}
