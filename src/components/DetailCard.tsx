@@ -39,7 +39,7 @@ export const DetailCard: FC = () => {
         </div>
       </div>
       <div className="recap-section">
-        {matchData?.recaps.map(el => (
+        {matchData?.recaps?.map(el => (
           <img src={el} alt="recap video" key={el} />
         ))}
       </div>

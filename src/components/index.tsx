@@ -5,6 +5,7 @@ import { Matches } from './Matches';
 import { NavTabs } from './NavTabs';
 import { NotFound } from './NotFound';
 import { TeamStats } from './TeamStats';
+import { Loader } from './Loader';
 
 export {
     MatchCard,
@@ -13,5 +14,6 @@ export {
     Matches,
     NavTabs,
     NotFound,
-    TeamStats
+    TeamStats,
+    Loader
 }

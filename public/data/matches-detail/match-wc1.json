@@ -1,0 +1,76 @@
+{
+    "id": "wc1",
+    "date": "3 Dec",
+    "title": "Round of 16",
+    "ft": "FT",
+    "team1": {
+        "name": "Netherlands",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_48x48.png",
+        "winner": true,
+        "score": 3,
+        "penalties": false
+    },
+    "team2": {
+        "name": "USA",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/wj9uZvn_vZrelLFGH8fnPA_48x48.png",
+        "winner": false,
+        "score": 1,
+        "penalties": false
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "11",
+            "detail": "Shots",
+            "team2": "17"
+        },
+        {
+            "team1": "6",
+            "detail": "Shots on target",
+            "team2": "8"
+        },
+        {
+            "team1": "41%",
+            "detail": "Possession",
+            "team2": "59%"
+        },
+        {
+            "team1": "414",
+            "detail": "Passes",
+            "team2": "569"
+        },
+        {
+            "team1": "76%",
+            "detail": "Pass accuracy",
+            "team2": "83%"
+        },
+        {
+            "team1": "10",
+            "detail": "Fouls",
+            "team2": "5"
+        },
+        {
+            "team1": "2",
+            "detail": "Yellow cards",
+            "team2": "0"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "0",
+            "detail": "Offsides",
+            "team2": "3"
+        },
+        {
+            "team1": "4",
+            "detail": "Corners",
+            "team2": "5"
+        }
+    ]
+}

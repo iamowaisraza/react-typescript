@@ -1,0 +1,77 @@
+{
+    "id": "wc5",
+    "date": "5 Dec",
+    "title": "Round of 16",
+    "ft": "FT (P)",
+    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/W5IlEzTx7m7vB9nt_192x108.jpg",
+    "team1" : {
+        "name": "Japan",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/by4OltvtZz7taxuQtkiP3A_48x48.png",
+        "winner": false,
+        "score": 1,
+        "penalties": 1
+    },
+    "team2" : {
+        "name": "Croatia",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+        "winner": true,
+        "score": 1,
+        "penalties": 3
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "13",
+            "detail": "Shots",
+            "team2": "17"
+        },
+        {
+            "team1": "4",
+            "detail": "Shots on target",
+            "team2": "4"
+        },
+        {
+            "team1": "41%",
+            "detail": "Possession",
+            "team2": "59%"
+        },
+        {
+            "team1": "524",
+            "detail": "Passes",
+            "team2": "725"
+        },
+        {
+            "team1": "75%",
+            "detail": "Pass accuracy",
+            "team2": "83%"
+        },
+        {
+            "team1": "13",
+            "detail": "Fouls",
+            "team2": "16"
+        },
+        {
+            "team1": "0",
+            "detail": "Yellow cards",
+            "team2": "2"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "3",
+            "detail": "Offsides",
+            "team2": "0"
+        },
+        {
+            "team1": "8",
+            "detail": "Corners",
+            "team2": "5"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "wc2",
+    "date": "4 Dec",
+    "title": "Round of 16",
+    "ft": "FT",
+    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/FYfN1dNinizMtxm8_192x108.jpg",
+    "team1": {
+        "name": "Argentina",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+        "winner": true,
+        "score": 2,
+        "penalties": false
+    },
+    "team2": {
+        "name": "Australia",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+        "winner": false,
+        "score": 1,
+        "penalties": false
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "14",
+            "detail": "Shots",
+            "team2": "5"
+        },
+        {
+            "team1": "5",
+            "detail": "Shots on target",
+            "team2": "1"
+        },
+        {
+            "team1": "61%",
+            "detail": "Possession",
+            "team2": "39"
+        },
+        {
+            "team1": "695",
+            "detail": "Passes",
+            "team2": "435"
+        },
+        {
+            "team1": "87%",
+            "detail": "Pass accuracy",
+            "team2": "82%"
+        },
+        {
+            "team1": "8",
+            "detail": "Fouls",
+            "team2": "15"
+        },
+        {
+            "team1": "0",
+            "detail": "Yellow cards",
+            "team2": "2"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "3",
+            "detail": "Offsides",
+            "team2": "0"
+        },
+        {
+            "team1": "1",
+            "detail": "Corners",
+            "team2": "3"
+        }
+    ]
+}

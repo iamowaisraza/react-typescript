@@ -1,0 +1,77 @@
+{
+    "id": "wc9",
+    "date": "9 Dec",
+    "title": "Quarter-finals",
+    "ft": "FT (P)",
+    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/43NdLJfaLtvG5Efy_192x108.jpg",
+    "team1" : {
+        "name": "Croatia",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_48x48.png",
+        "winner": true,
+        "score": 1,
+        "penalties": 4
+    },
+    "team2" : {
+        "name": "Brazil",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_48x48.png",
+        "winner": false,
+        "score": 1,
+        "penalties": 2
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "18",
+            "detail": "Shots",
+            "team2": "8"
+        },
+        {
+            "team1": "9",
+            "detail": "Shots on target",
+            "team2": "6"
+        },
+        {
+            "team1": "54%",
+            "detail": "Possession",
+            "team2": "46%"
+        },
+        {
+            "team1": "609",
+            "detail": "Passes",
+            "team2": "529"
+        },
+        {
+            "team1": "89%",
+            "detail": "Pass accuracy",
+            "team2": "86%"
+        },
+        {
+            "team1": "8",
+            "detail": "Fouls",
+            "team2": "13"
+        },
+        {
+            "team1": "0",
+            "detail": "Yellow cards",
+            "team2": "1"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "0",
+            "detail": "Offsides",
+            "team2": "5"
+        },
+        {
+            "team1": "5",
+            "detail": "Corners",
+            "team2": "4"
+        }
+    ]
+}

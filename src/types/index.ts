@@ -28,7 +28,7 @@ export type MatchDataType = {
     team1: Team,
     team2: Team,
     stats?: [],
-    recaps: []
+    recaps?: []
 }
 
 export type MatchContextProps = {

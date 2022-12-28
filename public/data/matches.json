@@ -1,7 +1,6 @@
 {
     "groups" : [
         {
-            
             "id": "gp1",
             "title": "Round of 16",
             "matches": [
@@ -24,63 +23,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "11",
-                            "detail": "Shots",
-                            "team2": "17"
-                        },
-                        {
-                            "team1": "6",
-                            "detail": "Shots on target",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "41%",
-                            "detail": "Possession",
-                            "team2": "59%"
-                        },
-                        {
-                            "team1": "414",
-                            "detail": "Passes",
-                            "team2": "569"
-                        },
-                        {
-                            "team1": "76%",
-                            "detail": "Pass accuracy",
-                            "team2": "83%"
-                        },
-                        {
-                            "team1": "10",
-                            "detail": "Fouls",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "2",
-                            "detail": "Yellow cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "3"
-                        },
-                        {
-                            "team1": "4",
-                            "detail": "Corners",
-                            "team2": "5"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc2",
@@ -101,63 +44,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "14",
-                            "detail": "Shots",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Shots on target",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "61%",
-                            "detail": "Possession",
-                            "team2": "39"
-                        },
-                        {
-                            "team1": "695",
-                            "detail": "Passes",
-                            "team2": "435"
-                        },
-                        {
-                            "team1": "87%",
-                            "detail": "Pass accuracy",
-                            "team2": "82%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "15"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "2"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "3",
-                            "detail": "Offsides",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "1",
-                            "detail": "Corners",
-                            "team2": "3"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc3",
@@ -178,63 +65,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "16",
-                            "detail": "Shots",
-                            "team2": "12"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Shots on target",
-                            "team2": "3"
-                        },
-                        {
-                            "team1": "55%",
-                            "detail": "Possession",
-                            "team2": "45%"
-                        },
-                        {
-                            "team1": "551",
-                            "detail": "Passes",
-                            "team2": "456"
-                        },
-                        {
-                            "team1": "86%",
-                            "detail": "Pass accuracy",
-                            "team2": "82%"
-                        },
-                        {
-                            "team1": "10",
-                            "detail": "Fouls",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "1",
-                            "detail": "Yellow cards",
-                            "team2": "2"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "3",
-                            "detail": "Offsides",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "7",
-                            "detail": "Corners",
-                            "team2": "1"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc4",
@@ -255,63 +86,7 @@
                         "winner": false,
                         "score": 0,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "8",
-                            "detail": "Shots",
-                            "team2": "10"
-                        },
-                        {
-                            "team1": "4",
-                            "detail": "Shots on target",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "62%",
-                            "detail": "Possession",
-                            "team2": "38%"
-                        },
-                        {
-                            "team1": "589",
-                            "detail": "Passes",
-                            "team2": "368"
-                        },
-                        {
-                            "team1": "85%",
-                            "detail": "Pass accuracy",
-                            "team2": "80%"
-                        },
-                        {
-                            "team1": "16",
-                            "detail": "Fouls",
-                            "team2": "12"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "3",
-                            "detail": "Corners",
-                            "team2": "3"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc5",
@@ -332,63 +107,7 @@
                         "winner": true,
                         "score": 1,
                         "penalties": 3
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "13",
-                            "detail": "Shots",
-                            "team2": "17"
-                        },
-                        {
-                            "team1": "4",
-                            "detail": "Shots on target",
-                            "team2": "4"
-                        },
-                        {
-                            "team1": "41%",
-                            "detail": "Possession",
-                            "team2": "59%"
-                        },
-                        {
-                            "team1": "524",
-                            "detail": "Passes",
-                            "team2": "725"
-                        },
-                        {
-                            "team1": "75%",
-                            "detail": "Pass accuracy",
-                            "team2": "83%"
-                        },
-                        {
-                            "team1": "13",
-                            "detail": "Fouls",
-                            "team2": "16"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "2"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "3",
-                            "detail": "Offsides",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Corners",
-                            "team2": "5"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc6",
@@ -409,63 +128,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc7",
@@ -486,63 +149,7 @@
                         "winner": false,
                         "score": 0,
                         "penalties": 0
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc8",
@@ -563,63 +170,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 }
             ] 
         },
@@ -646,63 +197,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": 2
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc10",
@@ -723,63 +218,7 @@
                         "winner": true,
                         "score": 2,
                         "penalties": 4
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc11",
@@ -800,63 +239,7 @@
                         "winner": false,
                         "score": 0,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc12",
@@ -877,63 +260,7 @@
                         "winner": true,
                         "score": 2,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 }
             ] 
         },
@@ -960,63 +287,7 @@
                         "winner": false,
                         "score": 0,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 },
                 {
                     "id": "wc14",
@@ -1037,63 +308,7 @@
                         "winner": false,
                         "score": 0,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 }
             ] 
         },
@@ -1120,63 +335,7 @@
                         "winner": false,
                         "score": 1,
                         "penalties": false
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 }
             ] 
         },
@@ -1203,63 +362,7 @@
                         "winner": false,
                         "score": 3,
                         "penalties": 2
-                    },
-                    "recaps": [
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
-                        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
-                    ],
-                    "stats": [
-                        {
-                            "team1": "18",
-                            "detail": "Shots",
-                            "team2": "8"
-                        },
-                        {
-                            "team1": "9",
-                            "detail": "Shots on target",
-                            "team2": "6"
-                        },
-                        {
-                            "team1": "54%",
-                            "detail": "Possession",
-                            "team2": "46%"
-                        },
-                        {
-                            "team1": "609",
-                            "detail": "Passes",
-                            "team2": "529"
-                        },
-                        {
-                            "team1": "89%",
-                            "detail": "Pass accuracy",
-                            "team2": "86%"
-                        },
-                        {
-                            "team1": "8",
-                            "detail": "Fouls",
-                            "team2": "13"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Yellow cards",
-                            "team2": "1"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Red cards",
-                            "team2": "0"
-                        },
-                        {
-                            "team1": "0",
-                            "detail": "Offsides",
-                            "team2": "5"
-                        },
-                        {
-                            "team1": "5",
-                            "detail": "Corners",
-                            "team2": "4"
-                        }
-                    ]
+                    }
                 }
             ] 
         }

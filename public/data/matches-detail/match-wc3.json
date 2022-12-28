@@ -1,0 +1,77 @@
+{
+    "id": "wc3",
+    "date": "4 Dec",
+    "title": "Round of 16",
+    "ft": "FT",
+    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_192x108.jpg",
+    "team1" : {
+        "name": "France",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+        "winner": true,
+        "score": 3,
+        "penalties": false
+    },
+    "team2" : {
+        "name": "Poland",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_48x48.png",
+        "winner": false,
+        "score": 1,
+        "penalties": false
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "16",
+            "detail": "Shots",
+            "team2": "12"
+        },
+        {
+            "team1": "8",
+            "detail": "Shots on target",
+            "team2": "3"
+        },
+        {
+            "team1": "55%",
+            "detail": "Possession",
+            "team2": "45%"
+        },
+        {
+            "team1": "551",
+            "detail": "Passes",
+            "team2": "456"
+        },
+        {
+            "team1": "86%",
+            "detail": "Pass accuracy",
+            "team2": "82%"
+        },
+        {
+            "team1": "10",
+            "detail": "Fouls",
+            "team2": "8"
+        },
+        {
+            "team1": "1",
+            "detail": "Yellow cards",
+            "team2": "2"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "3",
+            "detail": "Offsides",
+            "team2": "1"
+        },
+        {
+            "team1": "7",
+            "detail": "Corners",
+            "team2": "1"
+        }
+    ]
+}

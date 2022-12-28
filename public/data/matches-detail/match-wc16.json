@@ -1,0 +1,77 @@
+{
+    "id": "wc16",
+    "date": "Sun, 18 Dec",
+    "title": "Final",
+    "ft": "FT",
+    "videoImg": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/uv61xfx4QCxBOHzn_192x108.jpg",
+    "team1" : {
+        "name": "Argentina",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_48x48.png",
+        "winner": true,
+        "score": 3,
+        "penalties": 4
+    },
+    "team2" : {
+        "name": "France",
+        "flag": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
+        "winner": false,
+        "score": 3,
+        "penalties": 2
+    },
+    "recaps": [
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/nVzJ3o1T58aHQ-oT_768x432.jpg",
+        "https://ssl.gstatic.com/onebox/media/sports/videos/vita/4G6Wb6ybn2g_QgxQ_768x432.jpg"
+    ],
+    "stats": [
+        {
+            "team1": "18",
+            "detail": "Shots",
+            "team2": "8"
+        },
+        {
+            "team1": "9",
+            "detail": "Shots on target",
+            "team2": "6"
+        },
+        {
+            "team1": "54%",
+            "detail": "Possession",
+            "team2": "46%"
+        },
+        {
+            "team1": "609",
+            "detail": "Passes",
+            "team2": "529"
+        },
+        {
+            "team1": "89%",
+            "detail": "Pass accuracy",
+            "team2": "86%"
+        },
+        {
+            "team1": "8",
+            "detail": "Fouls",
+            "team2": "13"
+        },
+        {
+            "team1": "0",
+            "detail": "Yellow cards",
+            "team2": "1"
+        },
+        {
+            "team1": "0",
+            "detail": "Red cards",
+            "team2": "0"
+        },
+        {
+            "team1": "0",
+            "detail": "Offsides",
+            "team2": "5"
+        },
+        {
+            "team1": "5",
+            "detail": "Corners",
+            "team2": "4"
+        }
+    ]
+}
